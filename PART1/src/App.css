@@ -1,0 +1,15 @@
+/* External CSS */
+
+.test{
+  color: orangered;
+  text-align: center;
+  background-color: aquamarine;
+}
+
+.visible{
+  display: block;
+}
+
+.invisible{
+  display: none;
+}
